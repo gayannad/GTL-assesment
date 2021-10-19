@@ -31,7 +31,7 @@ php artisan serve
 API access
 
 ```
-**_~~localhost:8000/api/v1/runner/{runnerId}/form-data~~_**
+localhost:8000/api/v1/runner/{runnerId}/form-data
 ```
 
 Run API test
